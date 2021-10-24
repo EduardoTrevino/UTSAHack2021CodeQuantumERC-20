@@ -10,3 +10,7 @@ Finally the assest is a tradable asset, and listed it on public-test DEX (Decent
 % Go to https://linkfaucet.protofire.io/kovan paste account address and request some Kovan ETH
 
 I hope you like my technology hack this year !! Whoo go Runners!
+
+Smart contract address for Chores cryptocurrency
+0x8225FFb2dc5274945BBA1d69EeB4e6E3eFf7006B
+you can test on kovanetherscan.io 
